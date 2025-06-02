@@ -47,7 +47,6 @@
   </a>
 </p>
 
-![snake gif](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
 
 
 
