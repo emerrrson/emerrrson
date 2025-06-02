@@ -47,7 +47,7 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/emerrrson/emerrrson/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
