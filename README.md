@@ -22,6 +22,13 @@
 
 </div>
 
+### De uma olhada no meu portifólio:
+
+<a href="https://emerson-rodrigues-dev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+
 ### 📲 Me conecta aí:
 
 <p align="center">
@@ -37,6 +44,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+
+
+
 
 
 
