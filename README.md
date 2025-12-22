@@ -1,7 +1,7 @@
 ## Olá, eu sou o Emerson Rodrigues 👋
 
-- 🧠 Procurando um trabalho em front-end
-- 🚀 Estudando Javascript e React
+- 🧠 Procurando um estágio como Dev 
+- 🚀 Estudando Javascript , React e Typescript
 
 ##
 
