@@ -7,8 +7,9 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emerrrson&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emerrrson&layout=compact&theme=tokyonight" />
+ <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emerrrson&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emerrrson&theme=tokyonight" />
+
 
 </div>
 
