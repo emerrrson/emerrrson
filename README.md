@@ -1,6 +1,5 @@
 ## Olá, eu sou o Emerson Rodrigues 👋
-
-- 🧠 Procurando um estágio como Dev  
+ 
 - 🚀 Estudando JavaScript, React e TypeScript  
 
 ---
